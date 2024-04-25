@@ -36,3 +36,5 @@ FancyIter
 
 from .fancy_print import Message
 from .fancy_iterator import FancyIter
+
+Message("Welcome to Kiwi's home!","success")
